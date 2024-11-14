@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RTest",
+            "request": "launch",
+            "mainClass": "RTest",
+            "projectName": "hello-vscode-java-project_f8b69910"
+        },
+        {
+            "type": "java",
+            "name": "RandomWord",
+            "request": "launch",
+            "mainClass": "RandomWord",
+            "projectName": "hello-vscode-java-project_f8b69910"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "hello-vscode-java-project_f8b69910"
+        },
+        {
+            "type": "java",
+            "name": "HelloGoodbye",
+            "request": "launch",
+            "mainClass": "HelloGoodbye",
+            "projectName": "hello-vscode-java-project_f8b69910"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "hello-vscode-java-project_f8b69910"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Users\\sudhir.hanumanthappa\\Projects\\Repo\\usr\\sudhih\\alg-part-1-assignments\\1-hello\\.lift\\algs4.jar"
+    ],
+    "java.dependency.packagePresentation": "flat",
+    "java.project.explorer.showNonJavaResources": true
+}

@@ -1,0 +1,7 @@
+# java compiled files
+bin/
+.class
+
+# python compiled files
+__pycache__/
+.pyc
